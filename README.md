@@ -17,11 +17,11 @@
 
 Users should be able to:
 
-#### - Hover on any movie to show the movie overview
+#### - Click on the hamburger menu to reveal the navbar
 
-#### - Search for keywords and movies will appear with the specified word
+#### - Click on the "X" to make the navbar disappear
 
-#### - See the movies based on popularity in descending order
+#### - See the nav bar as the page rotates
 
 ### Features
 
