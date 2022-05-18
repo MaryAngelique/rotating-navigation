@@ -24,6 +24,7 @@ Users should be able to:
 #### - See the nav bar as the page rotates
 
 ### Features
+[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](https://www.loom.com/share/6526b10307e14e52a877f2e08d9d8e83)
 
 ### Project Demo
 
@@ -32,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Movie App GitHub Solution](https://github.com/MaryAngelique/movie-app)
-- Live Site URL: [Movie App Website](https://movie-app-angelique.vercel.app/)
+- Live Site URL: [Rotating Navigation Website](https://rotating-navigation-three.vercel.app/)
 
 ## My process
 
