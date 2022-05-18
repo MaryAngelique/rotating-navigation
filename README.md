@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Movie App GitHub Solution](https://github.com/MaryAngelique/movie-app)
+- Solution URL: [Rotating Navigation Solution](https://github.com/MaryAngelique/rotating-navigation)
 - Live Site URL: [Rotating Navigation Website](https://rotating-navigation-three.vercel.app/)
 
 ## My process
